@@ -1,0 +1,27 @@
+{
+  "name": "refactoring-javascript",
+  "version": "1.0.0",
+  "description": "refactoring kata in javascription",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afaren/refactoring-kata.git"
+  },
+  "keywords": [
+    "refactoring",
+    "kata",
+    "javascription"
+  ],
+  "author": "Afaren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afaren/refactoring-kata/issues"
+  },
+  "homepage": "https://github.com/Afaren/refactoring-kata#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
